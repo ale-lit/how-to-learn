@@ -24,3 +24,6 @@ https://ale-lit.github.io/how-to-learn/
 * проверить код на кроссбраузерность и дописать все вендорные префиксы
 * задизайнить форму, через которую пользователи смогут отправлять комментарии
 * "доработать" README.md
+
+## Чеклист по работе
+https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html
