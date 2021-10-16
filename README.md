@@ -1,6 +1,6 @@
 # Проект: «Научиться учиться»
 
-<div align="center"><img src="https://github.com/ale-lit/ale-lit/blob/main/screens/how-to-learn.jpg"></div>
+<div align="center"><a href="https://ale-lit.github.io/how-to-learn/"><img src="https://github.com/ale-lit/ale-lit/blob/main/screens/how-to-learn.jpg"></a></div>
 
 Данная работа реализована, для подтверждения и закрепления полученных знаний, в ходе учебного процесса на [Яндекс.Практикуме](https://practicum.yandex.ru/ "Сервис онлайн-образования от Яндекса"). В ней я практиковался в верстке и оформлении элементов различной сложности. Также, создал файловую структуру и осуществил разнесение всех стилей по методологии [БЭМ](https://ru.bem.info/ "Методология созданная в Яндексе для удобной разработки сайтов").
 
