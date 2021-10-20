@@ -6,7 +6,7 @@
 ▼ ▼ ▼
 ------------- |
 <a href="https://ale-lit.github.io/how-to-learn/"><img src="https://github.com/ale-lit/ale-lit/blob/main/screens/how-to-learn.jpg" alt="Научиться учиться"></a>
-https://ale-lit.github.io/how-to-learn/
+| <div align="center">**https://ale-lit.github.io/how-to-learn/**</div> |
   
 </div>
 
